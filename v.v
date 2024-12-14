@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "discord": "https://discord.gg/vHYeafts",
   "discord2": "http://discord.nizzix.ovh",
   "download": "http://download.nizzix.ovh",
